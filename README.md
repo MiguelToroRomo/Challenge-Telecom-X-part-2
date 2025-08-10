@@ -238,17 +238,16 @@ resultado = modelo.predict(nuevos_datos)
 
 |customerID|gender|Partner|Dependents|Contract|tenure|Prob Churn Sí|Prob Churn No|Conclusión|
 |---|---|---|---|---|---|---|---|---|
-|6368-XYZ|Female|No|No|Month-to-month|4|54\.835601753950016|45\.164398246049984|Abandona|
-|8147-XYZ|Male|Yes|Yes|One year|2|68\.08477383050534|31\.915226169494638|Abandona|
-|6283-XYZ|Female|No|Yes|Month-to-month|1|50\.91046146362185|49\.08953853637816|Abandona|
-|1494-XYZ|Male|No|Yes|One year|4|52\.12211712341105|47\.87788287658896|Abandona|
-|7845-XYZ|Male|No|No|Two year|6|16\.599381118924736|83\.40061888107526|No abandona|
-|8058-XYZ|Female|Yes|No|Month-to-month|3|82\.32023111142516|17\.679768888574834|Abandona|
-|7841-XYZ|Female|Yes|Yes|Two year|1|50\.60853908877754|49\.391460911222474|Abandona|
-|7614-XYZ|Female|Yes|Yes|Two year|0|51\.97490331047058|48\.02509668952943|Abandona|
-|2060-XYZ|Female|No|No|One year|4|38\.292381453340354|61\.707618546659674|No abandona|
-|3193-XYZ|Male|Yes|No|One year|4|38\.02543198201495|61\.974568017985064|No abandona|
-
+|1804-XYZ|Female|No|Yes|One year|1|60\.0|40\.0|Abandona|
+|9752-XYZ|Female|No|Yes|One year|5|30\.0|70\.0|No abandona|
+|4232-XYZ|Male|No|Yes|One year|6|58\.0|42\.0|Abandona|
+|8652-XYZ|Female|No|No|Two year|4|22\.0|78\.0|No abandona|
+|2897-XYZ|Female|Yes|Yes|Month-to-month|6|52\.0|48\.0|Abandona|
+|7879-XYZ|Female|Yes|Yes|Month-to-month|4|94\.0|6\.0|Abandona|
+|9886-XYZ|Female|No|No|Two year|4|21\.0|79\.0|No abandona|
+|8069-XYZ|Female|Yes|Yes|One year|2|45\.0|55\.0|No abandona|
+|2114-XYZ|Male|Yes|Yes|Two year|0|16\.0|84\.0|No abandona|
+|9006-XYZ|Male|Yes|Yes|Month-to-month|3|88\.0|12\.0|Abandona|
 
 ---
 

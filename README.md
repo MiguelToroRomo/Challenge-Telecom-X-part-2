@@ -236,18 +236,19 @@ resultado = modelo.predict(nuevos_datos)
 
 ## 📦 Ejemplo de uso con datos nuevos
 
-|index|customerID|gender|Partner|Dependents|Contract|tenure|Prob Churn Sí|Prob Churn No|Conclusión|
-|---|---|---|---|---|---|---|---|---|---|
-|0|9370-XYZ|Male|No|Yes|One year|4|60\.209949721150416|39\.79005027884959|Abandona|
-|1|9282-XYZ|Male|No|No|One year|6|65\.33220492909338|34\.66779507090663|Abandona|
-|2|1797-XYZ|Male|Yes|Yes|One year|4|56\.673610775113346|43\.32638922488666|Abandona|
-|3|1621-XYZ|Female|Yes|Yes|Month-to-month|6|61\.91963104703977|38\.08036895296022|Abandona|
-|4|3840-XYZ|Male|Yes|Yes|Two year|3|27\.40614240301335|72\.59385759698662|No abandona|
-|5|6423-XYZ|Female|No|No|One year|1|63\.14203870862385|36\.85796129137615|Abandona|
-|6|1525-XYZ|Female|Yes|No|One year|5|37\.03770507778696|62\.96229492221305|No abandona|
-|7|2145-XYZ|Male|No|Yes|One year|2|52\.83074014139044|47\.16925985860956|Abandona|
-|8|2155-XYZ|Male|No|Yes|Month-to-month|0|82\.18636707514784|17\.813632924852122|Abandona|
-|9|9883-XYZ|Male|Yes|Yes|Two year|4|4\.991184290627112|95\.0088157093729|No abandona|
+|customerID|gender|Partner|Dependents|Contract|tenure|Prob Churn Sí|Prob Churn No|Conclusión|
+|---|---|---|---|---|---|---|---|---|
+|6368-XYZ|Female|No|No|Month-to-month|4|54\.835601753950016|45\.164398246049984|Abandona|
+|8147-XYZ|Male|Yes|Yes|One year|2|68\.08477383050534|31\.915226169494638|Abandona|
+|6283-XYZ|Female|No|Yes|Month-to-month|1|50\.91046146362185|49\.08953853637816|Abandona|
+|1494-XYZ|Male|No|Yes|One year|4|52\.12211712341105|47\.87788287658896|Abandona|
+|7845-XYZ|Male|No|No|Two year|6|16\.599381118924736|83\.40061888107526|No abandona|
+|8058-XYZ|Female|Yes|No|Month-to-month|3|82\.32023111142516|17\.679768888574834|Abandona|
+|7841-XYZ|Female|Yes|Yes|Two year|1|50\.60853908877754|49\.391460911222474|Abandona|
+|7614-XYZ|Female|Yes|Yes|Two year|0|51\.97490331047058|48\.02509668952943|Abandona|
+|2060-XYZ|Female|No|No|One year|4|38\.292381453340354|61\.707618546659674|No abandona|
+|3193-XYZ|Male|Yes|No|One year|4|38\.02543198201495|61\.974568017985064|No abandona|
+
 
 ---
 

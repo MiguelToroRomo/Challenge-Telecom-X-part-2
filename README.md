@@ -234,24 +234,15 @@ nuevos_datos = pd.read_csv("data/nuevos_clientes.csv")
 resultado = modelo.predict(nuevos_datos)
 ```
 
----
-
-## 🚀 Ejecución Rápida
-
-Puedes ejecutar el flujo completo con el script:
-
-```bash
-python scripts/predict_from_csv.py --input data/nuevos_clientes.csv
-```
 
 ---
 
 ## 📝 Notas
 
-- Las columnas `Charges.Total` y `Charges.Monthly` fueron evaluadas, y se incluyeron porque daban mejor resultado que al excluirlas.
+- La columnas `Charges.Total` fue evaluada, y se incluyó porque daba mejor resultado que al excluirla.
 - El modelo fue entrenado en un pipeline que realiza todo el preprocesamiento internamente.
 - No es necesario transformar numéricamente las columnas `Yes` / `No`, ya que el pipeline lo hace automáticamente.
-- En datos nuevos se deben ingresar con tenure=0, Charges.Total = 0 y Charges.Monthly = 0
+- En datos de clientes nuevos se deben ingresar con tenure=0, Charges.Total = 0 y Charges.Monthly = 0
 
 ---
 

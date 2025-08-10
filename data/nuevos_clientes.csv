@@ -1,0 +1,101 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,Charges.Monthly,Charges.Total
+1348-XYZ,Male,1,Yes,Yes,0,Yes,No,No,No,Yes,No,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),0,0
+4228-XYZ,Male,0,No,No,0,Yes,No,No,Yes,No internet service,Yes,Yes,No,No,One year,No,Electronic check,0,0
+1110-XYZ,Female,1,No,No,0,Yes,Yes,No,No,No internet service,No,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,0,0
+7504-XYZ,Female,1,No,Yes,0,Yes,No phone service,Fiber optic,No,No internet service,No,Yes,No internet service,Yes,One year,Yes,Mailed check,0,0
+1611-XYZ,Male,0,No,Yes,0,No,No,Fiber optic,No internet service,No internet service,Yes,No,No,No internet service,One year,No,Electronic check,0,0
+3213-XYZ,Male,0,Yes,Yes,0,Yes,No,No,No,No,Yes,Yes,No,No internet service,Two year,No,Electronic check,0,0
+9490-XYZ,Female,1,Yes,No,0,No,Yes,Fiber optic,Yes,Yes,Yes,No,No internet service,Yes,Month-to-month,Yes,Mailed check,0,0
+2674-XYZ,Female,1,No,Yes,0,No,Yes,No,No,No,No,No internet service,No,No internet service,Two year,No,Bank transfer (automatic),0,0
+2469-XYZ,Female,0,No,No,0,Yes,Yes,DSL,No,Yes,No internet service,No internet service,Yes,No,One year,No,Mailed check,0,0
+5133-XYZ,Male,1,No,No,0,No,No,DSL,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,0,0
+5681-XYZ,Male,0,Yes,No,0,No,Yes,DSL,Yes,Yes,Yes,No internet service,No,No,Month-to-month,Yes,Electronic check,0,0
+8539-XYZ,Female,0,No,No,0,No,No,No,Yes,Yes,No internet service,No,No,Yes,Month-to-month,No,Mailed check,0,0
+9255-XYZ,Female,1,Yes,No,0,No,Yes,Fiber optic,No internet service,No internet service,No,No,No internet service,No,One year,No,Mailed check,0,0
+5072-XYZ,Male,1,Yes,No,0,No,No phone service,DSL,Yes,No internet service,No internet service,No,No internet service,No,Two year,No,Mailed check,0,0
+1114-XYZ,Male,1,No,Yes,0,Yes,Yes,DSL,No,No internet service,No,No,Yes,No,Month-to-month,No,Credit card (automatic),0,0
+9659-XYZ,Female,0,No,Yes,0,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,0,0
+3164-XYZ,Female,1,Yes,Yes,0,Yes,No,No,No,No internet service,No,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),0,0
+5546-XYZ,Female,0,No,No,0,No,No,DSL,Yes,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),0,0
+8743-XYZ,Female,1,No,Yes,0,Yes,Yes,Fiber optic,Yes,No,No internet service,Yes,No,Yes,Two year,No,Credit card (automatic),0,0
+6314-XYZ,Male,0,Yes,No,0,No,Yes,DSL,No internet service,No internet service,No,No,No internet service,No,Two year,No,Mailed check,0,0
+1482-XYZ,Female,0,Yes,Yes,0,Yes,No phone service,Fiber optic,Yes,Yes,No internet service,No internet service,No,Yes,Two year,Yes,Credit card (automatic),0,0
+9748-XYZ,Male,1,No,No,0,No,No,No,Yes,No,No,No internet service,Yes,Yes,One year,No,Mailed check,0,0
+1815-XYZ,Male,0,No,Yes,0,No,No phone service,Fiber optic,No,No internet service,No,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),0,0
+1388-XYZ,Male,0,No,No,0,Yes,No,DSL,No internet service,Yes,Yes,Yes,No internet service,No internet service,One year,Yes,Bank transfer (automatic),0,0
+2054-XYZ,Male,1,No,Yes,0,No,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,0,0
+6974-XYZ,Male,1,Yes,No,0,No,No,Fiber optic,No,Yes,No internet service,No internet service,No,No,One year,Yes,Mailed check,0,0
+1896-XYZ,Male,0,No,Yes,0,No,No phone service,No,No internet service,No,No,No internet service,No,Yes,Month-to-month,Yes,Mailed check,0,0
+2693-XYZ,Male,0,Yes,No,0,Yes,Yes,DSL,No,No,No internet service,No internet service,No,No,Two year,Yes,Credit card (automatic),0,0
+3881-XYZ,Male,1,No,No,0,No,Yes,Fiber optic,No internet service,Yes,Yes,No,Yes,No,One year,No,Credit card (automatic),0,0
+9522-XYZ,Female,0,No,No,0,No,No,DSL,No internet service,Yes,No internet service,No,No,Yes,One year,Yes,Bank transfer (automatic),0,0
+1118-XYZ,Female,0,Yes,Yes,0,No,No,Fiber optic,Yes,No internet service,No,Yes,Yes,No internet service,One year,Yes,Electronic check,0,0
+2085-XYZ,Female,0,No,Yes,0,No,No phone service,No,No internet service,No,No internet service,Yes,No,No internet service,Month-to-month,Yes,Electronic check,0,0
+5606-XYZ,Female,0,Yes,No,0,No,No phone service,No,Yes,No,No,Yes,Yes,No,Two year,No,Mailed check,0,0
+2856-XYZ,Male,1,No,No,0,Yes,No phone service,No,No,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,0,0
+2724-XYZ,Male,1,No,No,0,No,Yes,DSL,No,Yes,No,Yes,No internet service,No internet service,Two year,Yes,Electronic check,0,0
+3433-XYZ,Male,0,Yes,No,0,Yes,No,No,No internet service,No,No internet service,No internet service,No,No internet service,Two year,No,Mailed check,0,0
+4855-XYZ,Male,0,Yes,Yes,0,No,Yes,No,No,No,No,Yes,Yes,No internet service,One year,No,Electronic check,0,0
+5906-XYZ,Male,1,No,Yes,0,No,No phone service,No,Yes,No internet service,No internet service,No,Yes,Yes,Two year,No,Electronic check,0,0
+3950-XYZ,Male,1,Yes,No,0,Yes,No phone service,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0,0
+2970-XYZ,Male,0,No,Yes,0,No,Yes,Fiber optic,No internet service,No,No internet service,Yes,No internet service,No,Two year,No,Mailed check,0,0
+2086-XYZ,Female,0,Yes,No,0,No,No phone service,No,No,Yes,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,0
+5651-XYZ,Male,1,Yes,Yes,0,No,No phone service,No,No,No internet service,Yes,No internet service,Yes,No,One year,Yes,Electronic check,0,0
+4888-XYZ,Female,1,Yes,No,0,No,No,No,Yes,No,Yes,Yes,No internet service,Yes,One year,No,Mailed check,0,0
+2587-XYZ,Male,1,No,No,0,Yes,No,No,Yes,No,No internet service,No,No,No internet service,One year,No,Mailed check,0,0
+1985-XYZ,Female,0,Yes,No,0,Yes,Yes,Fiber optic,No internet service,No,No,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,0,0
+9619-XYZ,Male,1,Yes,No,0,Yes,Yes,DSL,No internet service,No internet service,Yes,No internet service,No,No internet service,One year,Yes,Electronic check,0,0
+9551-XYZ,Female,1,No,No,0,Yes,No,DSL,No internet service,No internet service,No,No internet service,No,No internet service,One year,Yes,Mailed check,0,0
+1839-XYZ,Male,1,No,No,0,No,Yes,No,Yes,No,Yes,No,No internet service,No,One year,No,Electronic check,0,0
+4600-XYZ,Female,1,No,Yes,0,Yes,Yes,No,No,No internet service,Yes,No internet service,No internet service,No internet service,One year,No,Mailed check,0,0
+4189-XYZ,Female,1,Yes,Yes,0,No,No phone service,DSL,No internet service,No,No internet service,Yes,No internet service,Yes,Two year,No,Electronic check,0,0
+9333-XYZ,Male,1,No,No,0,Yes,No,No,No,No internet service,No,No,No,Yes,Month-to-month,No,Electronic check,0,0
+5500-XYZ,Female,0,Yes,Yes,0,No,No phone service,No,No,No internet service,No,No,Yes,No internet service,Two year,No,Credit card (automatic),0,0
+9393-XYZ,Female,1,Yes,Yes,0,No,Yes,Fiber optic,No internet service,No,Yes,No internet service,Yes,Yes,Two year,No,Mailed check,0,0
+7400-XYZ,Male,0,Yes,Yes,0,Yes,Yes,DSL,Yes,No,No internet service,Yes,Yes,No,Month-to-month,No,Electronic check,0,0
+2576-XYZ,Male,0,No,Yes,0,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Two year,No,Electronic check,0,0
+6911-XYZ,Female,1,Yes,Yes,0,No,Yes,DSL,No,No internet service,Yes,No internet service,Yes,Yes,Two year,No,Electronic check,0,0
+8837-XYZ,Female,0,No,Yes,0,No,No phone service,No,Yes,Yes,No internet service,No,No,Yes,One year,No,Mailed check,0,0
+5438-XYZ,Male,1,Yes,Yes,0,No,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,No internet service,No internet service,One year,Yes,Bank transfer (automatic),0,0
+2067-XYZ,Female,0,Yes,No,0,No,Yes,Fiber optic,No internet service,No internet service,Yes,No,No internet service,Yes,Month-to-month,Yes,Electronic check,0,0
+1490-XYZ,Female,1,No,Yes,0,No,No phone service,DSL,No,No internet service,No internet service,No internet service,No,No internet service,One year,Yes,Bank transfer (automatic),0,0
+5473-XYZ,Female,0,No,No,0,No,No,Fiber optic,Yes,No,No internet service,No,Yes,No,Month-to-month,No,Credit card (automatic),0,0
+2274-XYZ,Female,1,No,No,0,Yes,No phone service,DSL,Yes,No,No internet service,No internet service,Yes,No internet service,Two year,No,Mailed check,0,0
+7309-XYZ,Male,1,Yes,No,0,Yes,No phone service,No,No internet service,No internet service,No,No internet service,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0,0
+2853-XYZ,Male,0,No,No,0,No,No phone service,DSL,No,Yes,No internet service,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0,0
+1246-XYZ,Female,1,Yes,No,0,No,No,DSL,Yes,No,No,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),0,0
+9450-XYZ,Male,0,Yes,Yes,0,Yes,No,Fiber optic,No internet service,No,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),0,0
+6869-XYZ,Female,0,Yes,No,0,No,No phone service,Fiber optic,Yes,Yes,No,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,0
+9818-XYZ,Male,0,No,Yes,0,Yes,No,Fiber optic,Yes,No,No,No internet service,No,Yes,Month-to-month,No,Electronic check,0,0
+3062-XYZ,Male,1,Yes,No,0,Yes,No phone service,DSL,No internet service,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),0,0
+5433-XYZ,Female,0,Yes,Yes,0,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No,Yes,One year,No,Mailed check,0,0
+4363-XYZ,Male,1,No,Yes,0,No,No,Fiber optic,Yes,No,No internet service,No internet service,No,Yes,One year,Yes,Credit card (automatic),0,0
+9624-XYZ,Female,1,No,No,0,Yes,Yes,No,Yes,No,No internet service,Yes,No internet service,No internet service,One year,Yes,Credit card (automatic),0,0
+4441-XYZ,Female,0,Yes,No,0,No,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),0,0
+9136-XYZ,Female,1,Yes,No,0,Yes,No,Fiber optic,No,Yes,No internet service,No,No,No,One year,No,Mailed check,0,0
+8744-XYZ,Female,1,No,No,0,No,Yes,DSL,Yes,No,No,No,No internet service,No,Two year,Yes,Mailed check,0,0
+6246-XYZ,Female,1,No,Yes,0,Yes,Yes,Fiber optic,No internet service,No,No,No,No,No,Two year,Yes,Mailed check,0,0
+7823-XYZ,Female,1,Yes,Yes,0,No,No phone service,Fiber optic,No internet service,Yes,No internet service,No,Yes,No,One year,Yes,Mailed check,0,0
+6129-XYZ,Male,1,No,No,0,Yes,No,Fiber optic,Yes,No internet service,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0,0
+8557-XYZ,Female,0,No,No,0,No,No,No,Yes,No,No internet service,Yes,No internet service,Yes,One year,Yes,Bank transfer (automatic),0,0
+2045-XYZ,Male,1,No,No,0,No,Yes,No,No internet service,No,Yes,Yes,Yes,No,Two year,No,Mailed check,0,0
+9038-XYZ,Male,0,Yes,Yes,0,No,No phone service,No,No internet service,No,No,No,No,Yes,One year,Yes,Electronic check,0,0
+5705-XYZ,Female,0,No,Yes,0,Yes,No phone service,DSL,No,No,No internet service,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,0,0
+4776-XYZ,Female,0,No,No,0,Yes,No,DSL,Yes,No internet service,No,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),0,0
+6372-XYZ,Male,0,No,No,0,No,No,DSL,Yes,No,No internet service,Yes,No,Yes,Two year,No,Electronic check,0,0
+7052-XYZ,Male,1,Yes,Yes,0,Yes,No phone service,Fiber optic,No internet service,No,No,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),0,0
+6548-XYZ,Female,0,Yes,Yes,0,Yes,Yes,No,Yes,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),0,0
+8941-XYZ,Male,0,No,No,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No internet service,Yes,Two year,No,Electronic check,0,0
+8689-XYZ,Male,1,Yes,Yes,0,No,No,Fiber optic,No internet service,No,No,No internet service,No,Yes,Month-to-month,Yes,Electronic check,0,0
+5042-XYZ,Male,1,Yes,No,0,Yes,Yes,DSL,No internet service,No internet service,No internet service,No internet service,No,No,One year,No,Credit card (automatic),0,0
+4840-XYZ,Female,1,No,No,0,Yes,No phone service,No,Yes,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,0,0
+6996-XYZ,Male,1,No,Yes,0,No,No phone service,Fiber optic,No,No internet service,No,Yes,No internet service,No internet service,Two year,No,Electronic check,0,0
+4854-XYZ,Male,0,No,Yes,0,No,Yes,DSL,Yes,No,Yes,Yes,No,No internet service,Month-to-month,No,Mailed check,0,0
+7888-XYZ,Female,1,Yes,Yes,0,No,No,Fiber optic,No,No,Yes,Yes,No,No internet service,Two year,No,Electronic check,0,0
+2044-XYZ,Female,0,Yes,No,0,No,No phone service,DSL,No,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Electronic check,0,0
+3003-XYZ,Male,0,No,No,0,No,Yes,DSL,Yes,Yes,No internet service,Yes,Yes,Yes,One year,No,Mailed check,0,0
+3201-XYZ,Male,1,No,No,0,Yes,No,No,Yes,No internet service,No internet service,No,No internet service,Yes,One year,No,Credit card (automatic),0,0
+9832-XYZ,Male,0,Yes,No,0,Yes,Yes,Fiber optic,No,Yes,No internet service,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),0,0
+5942-XYZ,Male,0,No,No,0,Yes,No,Fiber optic,Yes,No,No internet service,No internet service,No,No,One year,Yes,Bank transfer (automatic),0,0
+1412-XYZ,Male,1,No,No,0,No,Yes,DSL,No,No internet service,No internet service,Yes,No,No,Two year,No,Mailed check,0,0
+6010-XYZ,Female,0,Yes,No,0,Yes,No,Fiber optic,No,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),0,0

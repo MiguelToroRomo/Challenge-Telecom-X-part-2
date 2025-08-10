@@ -236,21 +236,18 @@ resultado = modelo.predict(nuevos_datos)
 
 ## 📦 Ejemplo de uso con datos nuevos
 
-```
-Probabilidades de Churn para nuevos datos
-customerID	gender	Partner	Dependents	Contract	tenure	Prob Churn Sí	Prob Churn No	Conclusión
-0	7857-XYZ	Female	No	No	One year	4	72.649390	27.350610	Abandona
-1	6564-XYZ	Male	Yes	Yes	Two year	1	22.736765	77.263235	No abandona
-2	8995-XYZ	Female	No	Yes	One year	2	39.875755	60.124245	No abandona
-3	9331-XYZ	Female	Yes	Yes	Two year	6	23.767110	76.232890	No abandona
-4	5424-XYZ	Female	Yes	Yes	One year	4	60.257756	39.742244	Abandona
-5	7835-XYZ	Male	No	No	Month-to-month	6	88.197841	11.802159	Abandona
-6	3060-XYZ	Male	Yes	No	One year	0	49.720079	50.279921	No abandona
-7	3613-XYZ	Female	Yes	No	Two year	6	20.036170	79.963830	No abandona
-8	7906-XYZ	Male	No	Yes	One year	5	59.317361	40.682639	Abandona
-9	5342-XYZ	Female	Yes	Yes	One year	6	38.706768	61.293232	No abandona
-
-```
+|index|customerID|gender|Partner|Dependents|Contract|tenure|Prob Churn Sí|Prob Churn No|Conclusión|
+|---|---|---|---|---|---|---|---|---|---|
+|0|9370-XYZ|Male|No|Yes|One year|4|60\.209949721150416|39\.79005027884959|Abandona|
+|1|9282-XYZ|Male|No|No|One year|6|65\.33220492909338|34\.66779507090663|Abandona|
+|2|1797-XYZ|Male|Yes|Yes|One year|4|56\.673610775113346|43\.32638922488666|Abandona|
+|3|1621-XYZ|Female|Yes|Yes|Month-to-month|6|61\.91963104703977|38\.08036895296022|Abandona|
+|4|3840-XYZ|Male|Yes|Yes|Two year|3|27\.40614240301335|72\.59385759698662|No abandona|
+|5|6423-XYZ|Female|No|No|One year|1|63\.14203870862385|36\.85796129137615|Abandona|
+|6|1525-XYZ|Female|Yes|No|One year|5|37\.03770507778696|62\.96229492221305|No abandona|
+|7|2145-XYZ|Male|No|Yes|One year|2|52\.83074014139044|47\.16925985860956|Abandona|
+|8|2155-XYZ|Male|No|Yes|Month-to-month|0|82\.18636707514784|17\.813632924852122|Abandona|
+|9|9883-XYZ|Male|Yes|Yes|Two year|4|4\.991184290627112|95\.0088157093729|No abandona|
 
 ---
 

@@ -253,7 +253,7 @@ resultado = modelo.predict(nuevos_datos)
 
 ## 📝 Notas
 
-- La columnas `Charges.Total` fue evaluada, y se incluyó porque daba mejor resultado que al excluirla.
+- La columna `Charges.Total` fue evaluada, y se incluyó porque daba mejor resultado que al excluirla.
 - El modelo fue entrenado en un pipeline que realiza todo el preprocesamiento internamente.
 - No es necesario transformar numéricamente las columnas `Yes` / `No`, ya que el pipeline lo hace automáticamente.
 - En datos de clientes nuevos se deben ingresar con tenure=0, Charges.Total = 0 y Charges.Monthly = 0

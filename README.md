@@ -227,13 +227,30 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 import pickle
 import pandas as pd
 
-with open("models/modelo_randomforest_pipeline.pkl", "rb") as f:
+with open("pipeline_final_RandomForest_produccion.pkl", "rb") as f:
     modelo = pickle.load(f)
 
 nuevos_datos = pd.read_csv("data/nuevos_clientes.csv")
 resultado = modelo.predict(nuevos_datos)
 ```
 
+## 📦 Ejemplo de uso con datos nuevos
+
+```
+Probabilidades de Churn para nuevos datos
+customerID	gender	Partner	Dependents	Contract	tenure	Prob Churn Sí	Prob Churn No	Conclusión
+0	7857-XYZ	Female	No	No	One year	4	72.649390	27.350610	Abandona
+1	6564-XYZ	Male	Yes	Yes	Two year	1	22.736765	77.263235	No abandona
+2	8995-XYZ	Female	No	Yes	One year	2	39.875755	60.124245	No abandona
+3	9331-XYZ	Female	Yes	Yes	Two year	6	23.767110	76.232890	No abandona
+4	5424-XYZ	Female	Yes	Yes	One year	4	60.257756	39.742244	Abandona
+5	7835-XYZ	Male	No	No	Month-to-month	6	88.197841	11.802159	Abandona
+6	3060-XYZ	Male	Yes	No	One year	0	49.720079	50.279921	No abandona
+7	3613-XYZ	Female	Yes	No	Two year	6	20.036170	79.963830	No abandona
+8	7906-XYZ	Male	No	Yes	One year	5	59.317361	40.682639	Abandona
+9	5342-XYZ	Female	Yes	Yes	One year	6	38.706768	61.293232	No abandona
+
+```
 
 ---
 

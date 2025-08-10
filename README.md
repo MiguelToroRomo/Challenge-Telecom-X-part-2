@@ -227,13 +227,27 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 import pickle
 import pandas as pd
 
-with open("models/modelo_randomforest_pipeline.pkl", "rb") as f:
+with open("pipeline_final_RandomForest_produccion.pkl", "rb") as f:
     modelo = pickle.load(f)
 
 nuevos_datos = pd.read_csv("data/nuevos_clientes.csv")
 resultado = modelo.predict(nuevos_datos)
 ```
 
+## 📦 Ejemplo de uso con datos nuevos
+
+|customerID|gender|Partner|Dependents|Contract|tenure|Prob Churn Sí|Prob Churn No|Conclusión|
+|---|---|---|---|---|---|---|---|---|
+|1804-XYZ|Female|No|Yes|One year|1|60\.0|40\.0|Abandona|
+|9752-XYZ|Female|No|Yes|One year|5|30\.0|70\.0|No abandona|
+|4232-XYZ|Male|No|Yes|One year|6|58\.0|42\.0|Abandona|
+|8652-XYZ|Female|No|No|Two year|4|22\.0|78\.0|No abandona|
+|2897-XYZ|Female|Yes|Yes|Month-to-month|6|52\.0|48\.0|Abandona|
+|7879-XYZ|Female|Yes|Yes|Month-to-month|4|94\.0|6\.0|Abandona|
+|9886-XYZ|Female|No|No|Two year|4|21\.0|79\.0|No abandona|
+|8069-XYZ|Female|Yes|Yes|One year|2|45\.0|55\.0|No abandona|
+|2114-XYZ|Male|Yes|Yes|Two year|0|16\.0|84\.0|No abandona|
+|9006-XYZ|Male|Yes|Yes|Month-to-month|3|88\.0|12\.0|Abandona|
 
 ---
 

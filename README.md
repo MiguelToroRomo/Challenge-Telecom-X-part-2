@@ -10,6 +10,11 @@
 **Autor:** Miguel Ángel Toro Romo  
 **Fecha:** 8-ago-2025  
 
+Este es un texto <span style="color:red">rojo</span>, 
+este es <span style="color:blue">azul</span> 
+y este es <span style="color:green">verde</span>.
+
+
 ---
 
 ## 📝 Descripción del Desafío

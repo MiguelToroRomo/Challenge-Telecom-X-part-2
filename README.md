@@ -7,11 +7,6 @@
        width="600" />
 </p>
 
-![Rojo](https://img.shields.io/badge/Texto_rojo-red)
-![Azul](https://img.shields.io/badge/Texto_azul-blue)
-![Verde](https://img.shields.io/badge/Texto_verde-green)
-
-
 **Autor:** Miguel Ángel Toro Romo  
 **Fecha:** 8-ago-2025  
 

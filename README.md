@@ -260,13 +260,9 @@ resultado = modelo.predict(nuevos_datos)
 
 ---
 
-## 📷 Créditos de Imágenes
+## 📷 Informe final del Challenge
 
-Las imágenes de métricas y gráficos se encuentran en Google Drive y se insertan usando el enlace con formato:
-
-```
-https://drive.google.com/uc?export=view&id=ID_DE_LA_IMAGEN
-```
+### El informe final del Challenge se encuentra en docs/Informe final Challenge Telecom X parte 2
 
 ---
 ## 📂 Estructura del Repositorio

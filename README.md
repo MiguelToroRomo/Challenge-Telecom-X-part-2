@@ -1,5 +1,5 @@
 
-# 🎯 <font color=blue size=6>Desafío Telecom X (parte 2)</font>
+# 🎯 Desafío Telecom X (parte 2)
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1l5Ux2MaZCnJ7gHQSGb_vhqE_KR66PGio" 

@@ -262,7 +262,7 @@ resultado = modelo.predict(nuevos_datos)
 
 ## 📷 Informe final del Challenge
 
-### El informe final del Challenge se encuentra en docs/Informe final Challenge Telecom X parte 2
+#### El informe final del Challenge se encuentra en docs/Informe final Challenge Telecom X parte 2.pdf
 
 ---
 ## 📂 Estructura del Repositorio

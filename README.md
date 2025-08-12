@@ -262,7 +262,8 @@ resultado = modelo.predict(nuevos_datos)
 
 ## 📖 Informe final del Challenge
 
-#### El informe final del Challenge se encuentra en docs/Informe final Challenge Telecom X parte 2.pdf
+#### Documento pdf: docs/Informe final Challenge Telecom X parte 2.pdf
+#### Presentación pptx: docs/Análisis y Selección de Modelo Predictivo para Churn de Clientes.pptx
 
 ---
 ## 📂 Estructura del Repositorio
